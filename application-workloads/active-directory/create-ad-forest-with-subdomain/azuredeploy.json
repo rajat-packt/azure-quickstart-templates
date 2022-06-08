@@ -21,7 +21,7 @@
       "metadata": {
         "description": "Full FQDN name for the forest root domain."
       },
-      "defaultValue": "contoso.com",
+      "defaultValue": "packttebooksoutlook.onmicrosoft.com",
       "minLength": 4
     },
     "ChildDomainName": {
